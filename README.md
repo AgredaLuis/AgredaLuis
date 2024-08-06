@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs , Typescript**
 
-- 👨‍💻 All of my projects are available at [(https://luisagreda-portfolio.vercel.app/)](https://luisagredadev.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://luisagreda-portfolio.vercel.app/](https://luisagredadev.vercel.app/)
 
 - 💬 Ask me about **react, next, javascript, HTML , CSS**
 
